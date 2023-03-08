@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Highly driven engineer with 5+ years of professional C# & Python Software Development experience with a burning passion for Full Stack Development and Data Analysis
+
+| [![Rachana's Github Stats](https://github-readme-stats.vercel.app/api?username=RamachandranRachana&include_all_commits=true&count_private=true&show_icons=true&theme=dark)](https://github.com/RamachandranRachana) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamachandranRachana&layout=compact&langs_count=3&theme=dark)](https://github.com/RamachandranRachana) |
+|---|---|
+
 <!--
 **RamachandranRachana/RamachandranRachana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
